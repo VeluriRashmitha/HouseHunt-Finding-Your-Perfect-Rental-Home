@@ -1,4 +1,5 @@
-# RentHub - Property Rental Management Platform
+# HouseHunt-Finding Your Perfect Rental Home
+ RentHub - Property Rental Management Platform
 
 A full-stack web application for managing property rentals and bookings. Users can browse properties, book rentals, and property owners can list their properties.
 
